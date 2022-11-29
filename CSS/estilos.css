@@ -41,7 +41,7 @@ body{
 .banner {
     width: 100%;
     min-height: 100vh;
-    background:url(laptop.jpg);
+    background:url(../img/laptop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
