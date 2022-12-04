@@ -1,0 +1,124 @@
+.body{
+    font-family:Arial, Helvetica, sans-serif;
+    width: auto;
+    background-size: cover;
+}
+
+::-webkit-scrollbar {
+    display:none;
+}
+::-moz-scrollbar {
+    display:none;
+}
+
+.menu1{ 
+    position: fixed;
+    width:100%; 
+    font-size:20px;
+    padding: auto;
+    background-color: #000000;
+}
+.menu{ 
+    
+    position: fixed;    
+    width:100%; 
+    font-size:20px;
+    padding: 8px;   background-color:#000000 ;
+}
+ 
+
+
+.menu li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 1.875rem;
+    align-self: 0px;
+    display: block;
+}
+.menu li{ 
+    display: inline-block;
+    text-align: center;
+    background-color:#000000 ;
+
+
+}
+.menu li a:hover{
+    background: #a1a1a1;
+
+}
+.item-r{
+    float: right;
+}
+
+.titulo1{
+    background: #8d8888;
+    padding: auto;
+    text-align: center;
+    margin-bottom: 0%;
+    margin-top: 2rem;
+}
+.pre{
+  color: rgb(232, 39, 39);
+  margin-top: 4rem;
+  margin-top: 2rem;
+}
+.do{
+    background:#9ec0c0;
+    padding: 5%;
+    margin-top: 0%;
+    text-emphasis: center;
+    margin-bottom: 0%;
+}
+.do1{
+    text-align: center;
+    
+}
+.diseño{ 
+    width: 100%;
+    min-height: 60vh;
+    background:url(/img/windows-FV6Pma5U_98-unsplash\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:5%;
+    padding: 60;
+}
+.quehacemos{ 
+    width: 100%;
+    min-height: 60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:5%;
+    padding: 60;
+   
+}
+.tareas{ 
+    background:#c9dada;
+    padding: 2%;
+    text-emphasis: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+
+.contacto{
+    background-color: rgb(0, 0, 0);
+    height: 15rem;
+    text-align: center;
+    padding-top: 0.5rem;
+    box-shadow: inset 0px 5px #777777;
+    margin-top: 0rem;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -90px;
+}
+.contact{
+    color: white;
+    
+}
+.infoc{
+    color: white;
+    text-align: center;
+    background: #000000;
+    padding-bottom: 2rem;
+}
+
